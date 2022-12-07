@@ -9,7 +9,7 @@ A Chinese annotated version of YOLOX!
 
 
 ## CSDN源码讲解导航
-- [【Swin Transformer原理和源码解析】Hierarchical Vision Transformer using Shifted Windows](https://hukai.blog.csdn.net/article/details/128133666) 
+- [【YOLOX 论文+源码解读】YOLOX: Exceeding YOLO Series in 2021](https://hukai.blog.csdn.net/article/details/128160734) 
 
 ## 模型结构
  ![Alt](assets/yolox.png)
